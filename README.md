@@ -1,5 +1,4 @@
 # Data Scientist 
-- [LinkedIn Profile](https://www.linkedin.com/in/padhmeshu/)
 
 #### Technical Skills: Python, SQL, Excel, Matplotlib, Seaborn, Plotly, Tableau, DrawIO, Scikit-learn, AutoCAD, Unreal Engine
 
@@ -37,3 +36,4 @@ Completed a customer churn analysis simulation, achieving 85% accuracy with a ra
 
 
 - [GitHub Profile](https://github.com/PadhmeshU)
+- [LinkedIn Profile](https://www.linkedin.com/in/padhmeshu/)
