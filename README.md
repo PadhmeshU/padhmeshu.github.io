@@ -1,4 +1,5 @@
-# Data Scientist
+# Data Scientist 
+- [LinkedIn Profile](https://www.linkedin.com/in/padhmeshu/)
 
 #### Technical Skills: Python, SQL, Excel, Matplotlib, Seaborn, Plotly, Tableau, DrawIO, Scikit-learn, AutoCAD, Unreal Engine
 
@@ -34,5 +35,5 @@ Completed a customer churn analysis simulation, achieving 85% accuracy with a ra
 ## Publications
 1. Padhmesh U. "Controlling a Humanoid Robot Using IoT" in the 3rd International Conference on Advances in Mechanical Engineering (ICAME 2020), February 2020.
 
-- [LinkedIn Profile](https://www.linkedin.com/in/padhmeshu/)
+
 - [GitHub Profile](https://github.com/PadhmeshU)
